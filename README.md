@@ -2,16 +2,12 @@
 
 **Tailor-made technology solutions and software development that drive business growth.**
 
----
-
 ## 🧩 About Us
 
 At **LSLC Software**, we design and build **custom software solutions** tailored to each client’s needs.  
 Our focus is on creating **scalable, secure, and efficient systems** that help businesses grow and optimize their processes.
 
 We combine modern technologies with solid architecture to deliver reliable digital products.
-
----
 
 ## 💼 What We Do
 
@@ -21,16 +17,12 @@ We combine modern technologies with solid architecture to deliver reliable digit
 - ☁️ Cloud-Based Solutions  
 - 🧠 Automation & Custom Integrations  
 
----
-
 ## 🛠️ Technologies We Work With
 
 - **Frontend:** Next.js, React, TypeScript  
 - **Backend:** Java Spring Boot, Node.js  
 - **Databases:** PostgreSQL, MySQL  
 - **Tools & DevOps:** Git, Docker, CI/CD  
-
----
 
 ## 🚀 Our Approach
 
@@ -39,14 +31,10 @@ We combine modern technologies with solid architecture to deliver reliable digit
 - Scalable systems built for growth  
 - Long-term vision and continuous improvement  
 
----
-
 ## 📂 Featured Projects
 
 - **DermaCore** – Medical management system focused on dermatology clinics  
   *(appointments, patients, analytics, and business insights)*
-
----
 
 ## 🤝 Let’s Build Together
 
